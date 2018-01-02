@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Zxcvbn-netstandard</PackageId>
+    <Authors>Sean Grimes, mickford</Authors>
+    <Company />
+    <Product>Zxcvbn-netstandard</Product>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/seandgrimes/Zxcvbn-netstandard</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/seandgrimes/Zxcvbn-netstandard</RepositoryUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
