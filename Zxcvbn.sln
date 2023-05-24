@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zxcvbn", "Zxcvbn\Zxcvbn.csproj", "{2A79FCBF-F25C-4BE0-9AC6-0731FF34F045}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zxcvbn-test", "Zxcvbn-test\Zxcvbn-test.csproj", "{DA28B9BF-71D6-49B3-8EA0-25E322FCF5E5}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
